@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @TecHAyusH6476
+- 👋 Hi, I’m @TecHAyusH6476 well versed in DSA
 - 👀 I’m interested in new technologies (mL and AI)
 - 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on projects  using mL through android.
+- 💞 I’m looking to collaborate on projects using mL through webApp.
 - 📫 How to reach me DM  @ayushsingh6476@gmail.com
+
 
 <!---
 TecHAyusH6476/TecHAyusH6476 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
