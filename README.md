@@ -112,7 +112,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TecHAyusH6476&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/TecHAyusH6476/github-readme-stats"><img alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TecHAyusH6476&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TecHAyusH6476&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
@@ -125,7 +125,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/TecHAyusH6476"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TecHAyusH6476&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/TecHAyusH6476"><img alt="Ayush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TecHAyusH6476&custom_title=Ayush%20Singh's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
