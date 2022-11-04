@@ -11,7 +11,7 @@
 <h4 align="center">My name is Ayush Singh, well versed in data structures and algo. , pursuing Bachelor's in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. I have keen interest in Data Structures and Algos </h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TecHAyusH6476&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
-
+[https://www.holopin.me/techayush6476)](https:/holopin.io/@techayush6476)
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TecHAyusH6476&theme=algolia" alt="Ayush"  /></p>
 
