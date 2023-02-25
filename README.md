@@ -13,6 +13,8 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TecHAyusH6476&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
+
+<iframe src="https://giphy.com/embed/ZL2iRxhnDwtSE" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/naruto-sasuke-sharingan-ZL2iRxhnDwtSE">via GIPHY</a></p>
 <br>
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TecHAyusH6476&theme=algolia" alt="Ayush"  /></p>
