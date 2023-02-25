@@ -13,7 +13,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TecHAyusH6476&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
-<p align="center"> <img src="https://giphy.com/embed/ZL2iRxhnDwtSE" alt="candida18" /> </p>
+<iframe src="https://www.google.com/"></iframe>
 
 <br>
 ## 🔥 Streak Stats
